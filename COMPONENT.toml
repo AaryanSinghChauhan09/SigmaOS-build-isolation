@@ -3,7 +3,7 @@ name = "SigmaOS-build-isolation"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "build-isolation component"
+description = "Build Isolation"
 upstream = []
 
 [contract]
